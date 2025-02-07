@@ -40,3 +40,4 @@ You can open the **.pbix** file in Power BI to see:
 4. **Line Chart**: Monthly or yearly readmissions
 
 
+![Image](https://github.com/user-attachments/assets/8b77d502-8c06-4f7f-8174-92e5278ff353)
