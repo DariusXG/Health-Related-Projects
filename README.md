@@ -41,8 +41,6 @@ You can open the **.pbix** file in Power BI Desktop to see:
 
 ### Screenshot of the Dashboard
 
-*(Upload your screenshot to the repository and update the link below.)*
 
 ```md
-![Dashboard Screenshot](![Hotel Readmission Analysis](https://github.com/user-attachments/assets/473ff063-7693-4170-b32b-af8112aaeedc)
-)
+![Dashboard Screenshot]
