@@ -33,14 +33,10 @@ The Python script (or notebook) uses:
 
 ## 3. Power BI Report
 
-You can open the **.pbix** file in Power BI Desktop to see:
+You can open the **.pbix** file in Power BI to see:
 1. **Bar Chart**: Readmission Rate by Condition  
 2. **Scatter Plot**: Avg Cost vs. Readmission Rate by Condition  
 3. **Pie Chart**: Age/Gender distribution of readmitted patients  
 4. **Line Chart**: Monthly or yearly readmissions
 
-### Screenshot of the Dashboard
 
-
-```md
-![Dashboard Screenshot] (Hotel Readmission Analysis.png)
