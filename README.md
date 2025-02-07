@@ -43,4 +43,4 @@ You can open the **.pbix** file in Power BI Desktop to see:
 
 
 ```md
-![Dashboard Screenshot]
+![Dashboard Screenshot] (Hotel Readmission Analysis.png)
